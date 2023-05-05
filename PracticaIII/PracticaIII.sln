@@ -5,6 +5,10 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticaIII", "PracticaIII.csproj", "{D972F8D7-12C1-42D9-99F5-E4887D9E6022}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatientManager", "..\PatientManager\PatientManager.csproj", "{6A7D7408-E364-48B4-A712-855A656CCACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationException", "..\ApplicationException\ApplicationException.csproj", "{A4FC29E4-26D7-4F9A-9685-FB8AF625B466}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D972F8D7-12C1-42D9-99F5-E4887D9E6022}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D972F8D7-12C1-42D9-99F5-E4887D9E6022}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D972F8D7-12C1-42D9-99F5-E4887D9E6022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A7D7408-E364-48B4-A712-855A656CCACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7D7408-E364-48B4-A712-855A656CCACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7D7408-E364-48B4-A712-855A656CCACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7D7408-E364-48B4-A712-855A656CCACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4FC29E4-26D7-4F9A-9685-FB8AF625B466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FC29E4-26D7-4F9A-9685-FB8AF625B466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4FC29E4-26D7-4F9A-9685-FB8AF625B466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FC29E4-26D7-4F9A-9685-FB8AF625B466}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
